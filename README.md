@@ -8,11 +8,11 @@
 
 ### Overview
 
-The Web Media Scraping Tool is a powerful utility designed to extract various media files, including images, videos, audio, and other related elements, from multiple websites. It provides a convenient way to gather media content and retrieve associated descriptions or alt="" content. The tool supports output formats such as JSON or CSV and offers proxy support for websites with bot blocking features.
+The Website Media Scraping Tool is a powerful utility designed to extract various media files, including images, videos, audio, and other related elements, from multiple websites. It provides a convenient way to gather media content and retrieve associated descriptions or alt="" content. The tool supports output formats such as JSON or CSV and offers proxy support for websites with bot blocking features.
 
   
 
-This documentation provides a comprehensive guide to the Web Media Scraper, a powerful tool designed to automate the process of collecting media files (images, videos, audio) and their corresponding descriptions from various websites.
+This documentation provides a comprehensive guide to the Website Media Scraper, a powerful tool designed to automate the process of collecting media files (images, videos, audio) and their corresponding descriptions from various websites.
 
   
 
