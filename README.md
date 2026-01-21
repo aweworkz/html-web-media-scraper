@@ -1,6 +1,6 @@
 ![Logo Image](https://images.apifyusercontent.com/swVJ04_b-JLKAOYgavYuZH5k8JZSKvlTd73vL8vR7sA/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vV3VHSG9BR3lTUFlUY3kzTHotYWN0b3ItYVV6MVJmMm40NUN1SHZTdFktQjhKZmViUEhiNS1odG1sLXdlYi1tZWRpYS1zY3JhcGVyLnBuZw.webp)
 
-# HTML/Web Media Elements Scraper
+# HTML/Website Media Scraper
 
 [Try it out on Apify](https://apify.com/hlymrk/html-web-media-scraper)
 
